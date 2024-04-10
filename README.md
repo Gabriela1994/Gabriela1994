@@ -4,7 +4,7 @@
 
 <h4>Estudiante en: <a href="https://www.cervantes.edu.ar/"> <b>Instituto Cervantes</b></a></h4>
 
-<p>He desarrollado aplicaciones utilizando tecnologías de Microsoft como ASP.NET, ASP.NET Core y MVC :sparkles: . Mi experiencia se extiende al manejo de APIs, donde disfruto diseñar y crear servicios robustos que impulsen la funcionalidad de diversas aplicaciones.</p>
+<p>He desarrollado aplicaciones utilizando tecnologías de Microsoft como ASP.NET, ASP.NET Core y MVC :sparkles: . Mi experiencia se extiende al manejo de APIs, donde disfruto diseñar y crear servicios que impulsen la funcionalidad de diversas aplicaciones.</p>
 
 <p>Siempre busco superar los desafíos y explorar nuevas formas de optimizar el rendimiento y la escalabilidad de mis proyectos. Me apasiona profundamente el proceso de diseño y desarrollo del backend.</p>
 
